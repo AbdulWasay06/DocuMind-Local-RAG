@@ -10,11 +10,11 @@ It leverages the power of **Retrieval-Augmented Generation (RAG)** to provide ac
 
 ### 1. The Interface (Input)
 *(Upload a screenshot of the clean UI with the file uploader here)*
-![Input Interface](path/to/your-input-image.png)
+![Input Interface](input.png)
 
 ### 2. AI Analysis (Output)
 *(Upload a screenshot of the Chatbot answering a question from the PDF)*
-![AI Output](path/to/your-output-image.png)
+![AI Output](output.png)
 
 ---
 
